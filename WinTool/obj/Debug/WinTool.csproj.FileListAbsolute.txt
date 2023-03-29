@@ -1,0 +1,11 @@
+D:\CodeProjects\VisualStudio\WinTool\WinTool\bin\Debug\WinTool.exe.config
+D:\CodeProjects\VisualStudio\WinTool\WinTool\bin\Debug\WinTool.exe
+D:\CodeProjects\VisualStudio\WinTool\WinTool\bin\Debug\WinTool.pdb
+D:\CodeProjects\VisualStudio\WinTool\WinTool\obj\Debug\WinTool.Forms.Driver.FrmExportDriver.resources
+D:\CodeProjects\VisualStudio\WinTool\WinTool\obj\Debug\WinTool.Forms.Driver.FrmInstallDriver.resources
+D:\CodeProjects\VisualStudio\WinTool\WinTool\obj\Debug\WinTool.FrmMain.resources
+D:\CodeProjects\VisualStudio\WinTool\WinTool\obj\Debug\WinTool.Properties.Resources.resources
+D:\CodeProjects\VisualStudio\WinTool\WinTool\obj\Debug\WinTool.csproj.GenerateResource.cache
+D:\CodeProjects\VisualStudio\WinTool\WinTool\obj\Debug\WinTool.csproj.CoreCompileInputs.cache
+D:\CodeProjects\VisualStudio\WinTool\WinTool\obj\Debug\WinTool.exe
+D:\CodeProjects\VisualStudio\WinTool\WinTool\obj\Debug\WinTool.pdb
