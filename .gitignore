@@ -1,4 +1,5 @@
 /.vscode
 /.vs
 /WinTool/bin
+/WinTool/obj
 /TODO.txt
