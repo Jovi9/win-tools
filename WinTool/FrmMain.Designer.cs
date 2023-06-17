@@ -29,6 +29,7 @@ namespace WinTool
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMain));
             this.MenuStrip = new System.Windows.Forms.MenuStrip();
             this.MenuDriver = new System.Windows.Forms.ToolStripMenuItem();
             this.BtnExportDrivers = new System.Windows.Forms.ToolStripMenuItem();
@@ -60,14 +61,14 @@ namespace WinTool
             // BtnExportDrivers
             // 
             this.BtnExportDrivers.Name = "BtnExportDrivers";
-            this.BtnExportDrivers.Size = new System.Drawing.Size(224, 32);
+            this.BtnExportDrivers.Size = new System.Drawing.Size(221, 32);
             this.BtnExportDrivers.Text = "Export Drivers";
             this.BtnExportDrivers.Click += new System.EventHandler(this.BtnExportDrivers_Click);
             // 
             // BtnInstallDrivers
             // 
             this.BtnInstallDrivers.Name = "BtnInstallDrivers";
-            this.BtnInstallDrivers.Size = new System.Drawing.Size(224, 32);
+            this.BtnInstallDrivers.Size = new System.Drawing.Size(221, 32);
             this.BtnInstallDrivers.Text = "Install Drivers";
             this.BtnInstallDrivers.Click += new System.EventHandler(this.BtnInstallDrivers_Click);
             // 
@@ -79,6 +80,7 @@ namespace WinTool
             this.ClientSize = new System.Drawing.Size(975, 610);
             this.Controls.Add(this.MenuStrip);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
             this.MainMenuStrip = this.MenuStrip;
             this.MaximizeBox = false;

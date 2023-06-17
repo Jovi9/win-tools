@@ -29,6 +29,7 @@ namespace WinTool.Forms.Driver
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmInstallDriver));
             this.PanelInstall = new System.Windows.Forms.Panel();
             this.BtnBrowseFolder = new System.Windows.Forms.Button();
             this.BtnInstallDriver = new System.Windows.Forms.Button();
@@ -186,6 +187,7 @@ namespace WinTool.Forms.Driver
             this.Controls.Add(this.PanelRight);
             this.Controls.Add(this.PanelLeft);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
             this.MaximumSize = new System.Drawing.Size(891, 534);
             this.MinimumSize = new System.Drawing.Size(891, 534);
